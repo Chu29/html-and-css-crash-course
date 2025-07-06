@@ -23,5 +23,5 @@ No prerequisite knowledge about web development
 
 👤 **Chu A. Malik**
 
-- GitHub: [@abuemkezeChu](https://github.com/Chu29)
-- Twitter: [@abuemkeze](https://twitter.com/unku_chu)
+- GitHub: [@Chu29](https://github.com/Chu29)
+- Twitter: [@unku_chu](https://twitter.com/unku_chu)
