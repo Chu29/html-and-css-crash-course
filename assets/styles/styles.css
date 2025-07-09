@@ -8,8 +8,20 @@ h1,
 h2 {
   margin: 20px;
   text-align: center;
+  text-decoration: underline;
+  color: yellow;
+  background-color: slategray;
 }
 
 ul {
   margin: 20px;
+}
+
+p {
+  margin: 20px;
+  padding: 20px;
+}
+
+.error {
+  color: red;
 }
